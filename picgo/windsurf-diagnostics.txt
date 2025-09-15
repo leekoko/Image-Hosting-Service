@@ -1,0 +1,2576 @@
+{
+  "systemInfo": {
+    "operatingSystem": "darwin",
+    "windsurfVersion": "1.12.5",
+    "ideName": "windsurf",
+    "userName": "lee koko",
+    "userEmail": "908230189@qq.com",
+    "teamsTier": 2,
+    "timestamp": "2025-09-15T11:54:56.127Z",
+    "installationId": "b6bb26b4-2f40-4936-ad77-f919de52ab2f"
+  },
+  "userSettings": {
+    "openMostRecentChatConversation": true,
+    "lastSelectedModel": "MODEL_UNSPECIFIED",
+    "themePreference": "THEME_PREFERENCE_UNSPECIFIED",
+    "extensionPanelTab": "EXTENSION_PANEL_TAB_UNSPECIFIED",
+    "fontSize": "FONT_SIZE_DEFAULT",
+    "autocompleteSpeed": "AUTOCOMPLETE_SPEED_UNSPECIFIED",
+    "rememberLastModelSelection": "REMEMBER_LAST_MODEL_SELECTION_ENABLED",
+    "lastSelectedModelName": "",
+    "lastSelectedCascadeModel": "MODEL_CLAUDE_4_SONNET",
+    "cascadeNuxStates": [
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_DIFF_OVERVIEW"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_WEB_SEARCH"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_UNSPECIFIED"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_TOOL_CALL"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_MODEL_SELECTOR_NUX"
+      },
+      {
+        "event": "CASCADE_NUX_EVENT_PLAN_MODE"
+      }
+    ],
+    "cascadePlannerMode": "CONVERSATIONAL_PLANNER_MODE_READ_ONLY",
+    "cascadeAllowedCommands": [],
+    "cascadeDeniedCommands": [],
+    "userNuxStates": [],
+    "cascadeWebSearchDisabled": false,
+    "disableAutocomplete": false,
+    "disableSupercomplete": false,
+    "disableSelectionPopup": false,
+    "disableExplainProblemInlayHint": false,
+    "disableInlayHintShortcuts": false,
+    "disableOpenCascadeOnReload": false,
+    "disableAutoOpenEditedFiles": false,
+    "disableTabToJump": false,
+    "cascadeAutoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_OFF",
+    "lastSelectedCascadeId": "fce549d9-bb43-4760-9468-e913683bc497",
+    "explainAndFixInCurrentConversation": true,
+    "allowCascadeAccessGitignoreFiles": false,
+    "disableCascadeAutoFixLints": false,
+    "disableCascadeBrowserPreviews": false,
+    "detectProxy": false,
+    "disableTabToImport": false,
+    "useClipboardForCompletions": false,
+    "disableHighlightAfterAccept": false,
+    "lastSelectedNewConvoTab": "mcp",
+    "disableAutoGenerateMemories": false,
+    "enableSoundsForSpecialEvents": false,
+    "enableTabSounds": false,
+    "allowCascadeInBackground": false,
+    "tabToJump": "TAB_TO_JUMP_UNSPECIFIED",
+    "cascadeWebSearch": "CASCADE_WEB_SEARCH_TOOL_UNSPECIFIED",
+    "enableTerminalCompletion": false,
+    "lastModelOverride": "MODEL_CHAT_GPT_4_1_2025_04_14",
+    "featureUsageData": {
+      "CASCADE_REVERT_TO_STEP": {
+        "hasUsed": true
+      },
+      "CASCADE_BROWSER": {
+        "hasUsed": true
+      },
+      "CASCADE_MESSAGE_FEEDBACK": {
+        "hasUsed": true
+      },
+      "CASCADE_CLICK_MODEL_SELECTOR": {
+        "hasUsed": true
+      }
+    },
+    "disableCascadeInBackground": false,
+    "enableCommandCascadeMode": false,
+    "customWorkspace": [],
+    "conversationBrainConfigs": {
+      "576c7899-c82f-4264-82e9-9d4102761f42": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "9df99f87-fa34-4841-8fc7-9e1a2414ee8b": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "7cddaa45-9209-4c74-9c25-08ad87e43755": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "7fa7db7d-c340-423d-8f45-2241eef01210": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "40f1ab27-291a-4f08-b22f-e4a54de7633a": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "4dceb2d9-84b5-4252-88a5-e2b597ca464c": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "b559fad1-a0c4-44cc-855b-dc418f6f9942": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "e403c8f9-dd7b-4c73-bbdf-0f3ec88d7d66": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "c933e62e-cb41-43ee-9166-959173d60c78": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "82eb4545-5a64-4faa-9857-4607ef04f879": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "705058e0-f08c-4792-a0cf-47a726065439": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "46e98247-fb5d-4d3f-a4c3-d252de34917e": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "91727f65-e55c-4470-b0a7-ea7edc58913a": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "455ede81-7aa7-4933-8ba4-23fd0f7714a4": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "56f51046-f934-42f2-84b9-72db2b96e5c3": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "9487fb79-08af-4da1-ac8e-93b5c4b046a0": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "eacdef01-b918-4214-96c8-d9af1cf3bfb7": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "3af5547f-9401-4c7f-a042-55d9e97e3230": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "ac43359f-23aa-433c-980b-20761407d574": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "37b7d763-98d0-4c16-a101-fbb33e928ac9": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "a255d564-2fb9-40e0-940f-d641fc606d12": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "1a8352d8-2f2e-44d4-bf18-d05154e131ae": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "7bb2c832-406b-410c-a802-e434091fc252": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "5118cb58-5a84-4591-a1ba-1f92341b77bc": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "6b8162be-e9bb-4ba3-a30b-c16efc9c404f": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "2618448b-1f97-46df-95c5-6a7e0758ae29": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "97ba009c-df92-4b16-8a86-266fd7932a06": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "0b4e4758-b083-4493-9524-2e45a94210ff": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "497490bd-0ae8-4a27-9457-fe6805923023": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "823aef54-3cad-4402-8250-b506efbaefca": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "4836a91f-a76d-465c-bd2e-7a49549cd4c8": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "67f2396b-8f2a-47f6-b616-21ee2b0a8f0f": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "5713089a-3c1a-4167-9d85-d5cc8c5ff598": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "02df9baf-ca15-4f90-8709-c7f00d4520ed": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "b13a28c0-f5d0-4cc9-aae1-0d56767c3943": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "9d592926-1eba-4a0f-8be9-c6932a9d98d3": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "bf972f5d-1920-48f8-a8a9-be4444b9f580": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "0586deef-af29-4592-8a61-a8c0da3f65be": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "d420b5d1-fe52-4fa2-80ea-914769226b6f": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "8d606358-34e9-46dc-8cd5-8c1e894702b6": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "a26b7c51-925b-4af4-8a2c-996ad1ccfa8a": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "b4428202-9020-47e7-86b2-1751e819b673": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "25140dd2-b27f-4eaf-8777-c8814ddd5d1d": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "b344c4ab-c74a-4243-b921-983484409ce9": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "ebb8154d-5567-4292-bca6-efc3fd51aca8": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "8a9bd745-51c6-4203-aa51-1656d57c4cf5": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "4933ac4e-b16a-47e2-b980-acaf2916f21e": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "3916d8f0-da92-4f71-b346-0358cd480256": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "dbfe1d0d-0442-4de2-acb3-a9a479453cf6": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "61e8df7d-afbd-46f2-a6b1-e3830e637309": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "06bb324f-6d17-4032-873b-912c113dcbf9": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "6d3486a6-d452-48a4-a8aa-092effc91b07": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "2b712311-da94-4617-80bc-694c9c96bcca": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "ee02309d-8dac-4677-8af3-f757ea2f0624": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "96adecbc-6953-4a04-a968-64651bb5d48c": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "53acd9d0-3f49-4b62-b1ed-618613932b60": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "3346c995-6640-4c46-b051-f0efb9c23c4f": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "f8a8c187-d877-4c20-ad33-1f92ffb816d9": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "06373203-8f3a-44fe-a3ca-3609002e316e": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "455e0139-8931-4ed8-9844-84655df58fe5": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "cff78d0e-44c9-49ed-b0a0-022a7f0fdef9": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "37b235e9-f233-4599-9c84-52ef2092b928": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "040c3694-2f79-4282-95f5-0349953a883f": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "94127a03-e6eb-4183-ba36-cdc317563d1a": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "6fe3098c-df5a-4e4b-be5a-18ae76681757": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "3f4e3af9-6644-47e2-985a-677f4b37770c": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "1a795706-3a05-4b1d-95e2-d1e5700525df": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "a6f9f76c-dffb-4b95-9013-db3aad72ccdd": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "cd8ae811-291e-4e05-a720-eb325984953e": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "0bba55fe-2744-4a25-91c1-3b177936846e": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "9963a314-ef66-477f-a19f-8287cdd1365c": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "a1947102-e2d7-4334-8b35-a62f3726c38e": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "faa59559-3ca7-4eae-af18-458291e3fd04": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "a61c7336-2a60-4bfb-b520-e22534bcff7a": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "cbca2cda-c64f-45ad-a2f0-595498fb5092": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "ea748995-ee5b-433a-b8aa-051a7f14987c": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "f1602fe4-c907-41ba-948a-32804cf5b873": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "b512e737-3e18-469c-9668-64668c37ae79": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "eef898d4-6b22-4e31-b7de-a3317a321cd8": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "0ae10233-a843-4da1-ac52-b631cf1a79f1": {
+        "planMode": "PLAN_MODE_OFF"
+      },
+      "1549534d-d00b-4b05-a4ff-8c9adea4f532": {
+        "planMode": "PLAN_MODE_OFF"
+      }
+    },
+    "cachedCascadeModelConfigs": [
+      {
+        "label": "GPT-5 (low reasoning)",
+        "modelOrAlias": {
+          "model": "MODEL_PRIVATE_6"
+        },
+        "creditMultiplier": 0.5,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": true,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Sonnet 4",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_SONNET"
+        },
+        "creditMultiplier": 2,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": true,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "GPT-4.1",
+        "modelOrAlias": {
+          "model": "MODEL_CHAT_GPT_4_1_2025_04_14"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "SWE-1",
+        "modelOrAlias": {
+          "alias": "MODEL_ALIAS_SWE_1"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": false,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_WINDSURF",
+        "isRecommended": true,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Gemini 2.5 Pro",
+        "modelOrAlias": {
+          "model": "MODEL_GOOGLE_GEMINI_2_5_PRO"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_GOOGLE",
+        "isRecommended": true,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude 3.7 Sonnet",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_3_7_SONNET_20250219"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude 3.7 Sonnet (Thinking)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_3_7_SONNET_20250219_THINKING"
+        },
+        "creditMultiplier": 1.25,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude 3.5 Sonnet",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_3_5_SONNET_20241022"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Sonnet 4 (BYOK)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_SONNET_BYOK"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_BYOK",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Sonnet 4 (Thinking, BYOK)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_SONNET_THINKING_BYOK"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_BYOK",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Sonnet 4 (Thinking)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_SONNET_THINKING"
+        },
+        "creditMultiplier": 2,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Opus 4.1",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_1_OPUS"
+        },
+        "creditMultiplier": 20,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Opus 4.1 (Thinking)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_1_OPUS_THINKING"
+        },
+        "creditMultiplier": 20,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Opus 4 (BYOK)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_OPUS_BYOK"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "Register your Anthropic API key in Windsurf settings.",
+        "isBeta": true,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_BYOK",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Claude Opus 4 (Thinking, BYOK)",
+        "modelOrAlias": {
+          "model": "MODEL_CLAUDE_4_OPUS_THINKING_BYOK"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "Register your Anthropic API key in Windsurf settings.",
+        "isBeta": true,
+        "provider": "MODEL_PROVIDER_ANTHROPIC",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_BYOK",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "o3",
+        "modelOrAlias": {
+          "model": "MODEL_CHAT_O3"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "o3 (high reasoning)",
+        "modelOrAlias": {
+          "model": "MODEL_CHAT_O3_HIGH"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Grok Code Fast 1",
+        "modelOrAlias": {
+          "model": "MODEL_PRIVATE_4"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_XAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "GPT-5 (medium reasoning)",
+        "modelOrAlias": {
+          "model": "MODEL_PRIVATE_7"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "GPT-5 (high reasoning)",
+        "modelOrAlias": {
+          "model": "MODEL_PRIVATE_8"
+        },
+        "creditMultiplier": 2,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "GPT-4o",
+        "modelOrAlias": {
+          "model": "MODEL_CHAT_GPT_4O_2024_08_06"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": true,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "DeepSeek V3 (0324)",
+        "modelOrAlias": {
+          "model": "MODEL_DEEPSEEK_V3"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_DEEPSEEK",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Kimi K2",
+        "modelOrAlias": {
+          "model": "MODEL_KIMI_K2"
+        },
+        "creditMultiplier": 0.5,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_MOONSHOT",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Qwen3-Coder Fast (promo)",
+        "modelOrAlias": {
+          "model": "MODEL_QWEN_3_CODER_480B_INSTRUCT_FAST"
+        },
+        "creditMultiplier": 2,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_QWEN",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "Qwen3-Coder",
+        "modelOrAlias": {
+          "model": "MODEL_QWEN_3_CODER_480B_INSTRUCT"
+        },
+        "creditMultiplier": 0.5,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_QWEN",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "GPT-OSS 120B (Medium)",
+        "modelOrAlias": {
+          "model": "MODEL_GPT_OSS_120B"
+        },
+        "creditMultiplier": 0.25,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_OPENAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "DeepSeek R1 (0528)",
+        "modelOrAlias": {
+          "model": "MODEL_DEEPSEEK_R1"
+        },
+        "creditMultiplier": 0,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": false,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_DEEPSEEK",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "xAI Grok-3",
+        "modelOrAlias": {
+          "model": "MODEL_XAI_GROK_3"
+        },
+        "creditMultiplier": 1,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_XAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      },
+      {
+        "label": "xAI Grok-3 mini (Thinking)",
+        "modelOrAlias": {
+          "model": "MODEL_XAI_GROK_3_MINI_REASONING"
+        },
+        "creditMultiplier": 0.125,
+        "disabled": false,
+        "supportsImages": false,
+        "supportsLegacy": true,
+        "isPremium": true,
+        "betaWarningMessage": "",
+        "isBeta": false,
+        "provider": "MODEL_PROVIDER_XAI",
+        "isRecommended": false,
+        "allowedTiers": [],
+        "pricingType": "MODEL_PRICING_TYPE_STATIC_CREDIT",
+        "apiProvider": "API_PROVIDER_UNSPECIFIED"
+      }
+    ],
+    "cachedCascadeModelSorts": [
+      {
+        "name": "Recommended",
+        "groups": [
+          {
+            "groupName": "",
+            "modelLabels": [
+              "GPT-5 (low reasoning)",
+              "Claude Sonnet 4",
+              "SWE-1",
+              "Gemini 2.5 Pro"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Provider",
+        "groups": [
+          {
+            "groupName": "Windsurf",
+            "modelLabels": [
+              "SWE-1"
+            ]
+          },
+          {
+            "groupName": "OpenAI",
+            "modelLabels": [
+              "GPT-5 (low reasoning)",
+              "GPT-4.1",
+              "o3",
+              "o3 (high reasoning)",
+              "GPT-5 (medium reasoning)",
+              "GPT-5 (high reasoning)",
+              "GPT-4o",
+              "GPT-OSS 120B (Medium)"
+            ]
+          },
+          {
+            "groupName": "Anthropic",
+            "modelLabels": [
+              "Claude Sonnet 4",
+              "Claude 3.7 Sonnet",
+              "Claude 3.7 Sonnet (Thinking)",
+              "Claude 3.5 Sonnet",
+              "Claude Sonnet 4 (BYOK)",
+              "Claude Sonnet 4 (Thinking, BYOK)",
+              "Claude Sonnet 4 (Thinking)",
+              "Claude Opus 4.1",
+              "Claude Opus 4.1 (Thinking)",
+              "Claude Opus 4 (BYOK)",
+              "Claude Opus 4 (Thinking, BYOK)"
+            ]
+          },
+          {
+            "groupName": "Google",
+            "modelLabels": [
+              "Gemini 2.5 Pro"
+            ]
+          },
+          {
+            "groupName": "xAI",
+            "modelLabels": [
+              "Grok Code Fast 1",
+              "xAI Grok-3",
+              "xAI Grok-3 mini (Thinking)"
+            ]
+          },
+          {
+            "groupName": "DeepSeek",
+            "modelLabels": [
+              "DeepSeek V3 (0324)",
+              "DeepSeek R1 (0528)"
+            ]
+          },
+          {
+            "groupName": "Other",
+            "modelLabels": [
+              "Kimi K2",
+              "Qwen3-Coder Fast (promo)",
+              "Qwen3-Coder"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cost",
+        "groups": [
+          {
+            "groupName": "Premium",
+            "modelLabels": [
+              "Claude Sonnet 4",
+              "GPT-4.1",
+              "Gemini 2.5 Pro",
+              "Claude 3.7 Sonnet",
+              "Claude 3.7 Sonnet (Thinking)",
+              "Claude 3.5 Sonnet",
+              "Claude Sonnet 4 (Thinking)",
+              "Claude Opus 4.1",
+              "Claude Opus 4.1 (Thinking)",
+              "o3",
+              "o3 (high reasoning)",
+              "GPT-5 (medium reasoning)",
+              "GPT-5 (high reasoning)",
+              "GPT-4o",
+              "Qwen3-Coder Fast (promo)",
+              "xAI Grok-3"
+            ]
+          },
+          {
+            "groupName": "Value",
+            "modelLabels": [
+              "GPT-5 (low reasoning)",
+              "Kimi K2",
+              "Qwen3-Coder",
+              "GPT-OSS 120B (Medium)",
+              "xAI Grok-3 mini (Thinking)"
+            ]
+          },
+          {
+            "groupName": "BYOK",
+            "modelLabels": [
+              "Claude Sonnet 4 (BYOK)",
+              "Claude Sonnet 4 (Thinking, BYOK)",
+              "Claude Opus 4 (BYOK)",
+              "Claude Opus 4 (Thinking, BYOK)"
+            ]
+          },
+          {
+            "groupName": "Free",
+            "modelLabels": [
+              "SWE-1",
+              "Grok Code Fast 1",
+              "DeepSeek V3 (0324)",
+              "DeepSeek R1 (0528)"
+            ]
+          }
+        ]
+      }
+    ],
+    "globalPlanModePreference": "PLAN_MODE_UNSPECIFIED",
+    "isSnoozed": false,
+    "cascadeRunExtensionCode": "CASCADE_RUN_EXTENSION_CODE_UNSPECIFIED",
+    "cascadeRunExtensionCodeAutoRun": "CASCADE_RUN_EXTENSION_CODE_AUTO_RUN_UNSPECIFIED",
+    "lastModelDefaultOverrideVersionId": "claude-4-sonnet",
+    "autoContinueOnMaxGeneratorInvocations": "AUTO_CONTINUE_ON_MAX_GENERATOR_INVOCATIONS_UNSPECIFIED",
+    "seenNuxUids": {
+      "1": true,
+      "8": true
+    },
+    "recentlyUsedCascadeModels": [
+      "281",
+      "316",
+      "314"
+    ],
+    "cascadeDismissedSuggestionWorkspaces": [],
+    "annotationsConfig": "ANNOTATIONS_CONFIG_UNSPECIFIED",
+    "enableAutomaticScreenshot": false,
+    "cascadeInputAutocomplete": "CASCADE_INPUT_AUTOCOMPLETE_UNSPECIFIED",
+    "browserExperimentalFeaturesConfig": "BROWSER_EXPERIMENTAL_FEATURES_CONFIG_UNSPECIFIED",
+    "commandPopupAutocomplete": "COMMAND_POPUP_AUTOCOMPLETE_UNSPECIFIED"
+  },
+  "extensionLogs": [
+    "2025-09-13 18:35:49.343 [info] 2025/09/13 18:35:49 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined",
+    "2025-09-13 18:35:49.560 [info] I0913 18:35:49.560775 59923 main.go:607] Setting GOMAXPROCS to 4",
+    "2025-09-13 18:35:49.561 [info] I0913 18:35:49.561686 59923 main.go:826] Starting language server process with pid 59923",
+    "2025-09-13 18:35:49.562 [info] I0913 18:35:49.562939 59923 server.go:298] Language server will attempt to listen on host 127.0.0.1",
+    "2025-09-13 18:35:49.563 [info] I0913 18:35:49.563151 59923 server.go:305] Language server listening on random port at 54732",
+    "2025-09-13 18:35:51.535 [info] I0913 18:35:51.534901 59923 server.go:438] Created extension server client at port 54729",
+    "2025-09-13 18:35:58.145 [info] (Windsurf) 2025-09-13 18:35:58.140 [INFO]: Language server started",
+    "2025-09-13 18:35:58.345 [info] (Windsurf) 2025-09-13 18:35:58.345 [INFO]: LS lspClient started successfully",
+    "2025-09-13 18:36:02.195 [info] E0913 18:36:02.194920 59923 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshMcpServers (unknown): loading already in progress",
+    "2025-09-13 18:36:02.198 [info] (Windsurf) 2025-09-13 18:36:02.198 [ERROR]: Error refreshing MCP servers [unknown] loading already in progress",
+    "2025-09-13 18:36:23.783 [info] (Windsurf) 2025-09-13 18:36:23.774 [INFO]: Shutting down all 0 managed language servers",
+    "2025-09-13 18:36:28.565 [info] 2025/09/13 18:36:28 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined",
+    "2025-09-13 18:36:28.671 [info] I0913 18:36:28.670903 60811 main.go:607] Setting GOMAXPROCS to 4",
+    "2025-09-13 18:36:28.731 [info] I0913 18:36:28.672379 60811 main.go:826] Starting language server process with pid 60811",
+    "2025-09-13 18:36:28.731 [info] I0913 18:36:28.672467 60811 server.go:298] Language server will attempt to listen on host 127.0.0.1",
+    "2025-09-13 18:36:28.731 [info] I0913 18:36:28.672525 60811 server.go:305] Language server listening on random port at 55069",
+    "2025-09-13 18:36:29.849 [info] I0913 18:36:29.849218 60811 server.go:438] Created extension server client at port 55062",
+    "2025-09-13 18:36:32.480 [info] (Windsurf) 2025-09-13 18:36:32.477 [INFO]: Language server started",
+    "2025-09-13 18:36:32.712 [info] (Windsurf) 2025-09-13 18:36:32.712 [INFO]: LS lspClient started successfully",
+    "2025-09-13 18:36:36.002 [info] E0913 18:36:36.002480 60811 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshMcpServers (unknown): loading already in progress",
+    "2025-09-13 18:36:36.004 [info] (Windsurf) 2025-09-13 18:36:36.004 [ERROR]: Error refreshing MCP servers [unknown] loading already in progress",
+    "2025-09-13 19:04:10.865 [info] (Windsurf) 2025-09-13 19:04:10.865 [INFO]: [Terminal] Command started: undefinedyubinlee@YubindeMacBook-Air-2 airoomdesign % npm run dev pid 60938",
+    "2025-09-13 19:04:23.560 [info] (Windsurf) 2025-09-13 19:04:23.560 [INFO]: [Terminal] Command completed: undefinedyubinlee@YubindeMacBook-Air-2 airoomdesign % npm run dev exit code 0",
+    "2025-09-13 19:04:30.152 [info] (Windsurf) 2025-09-13 19:04:30.152 [INFO]: [Terminal] Command started: lsof -i:3000 pid 60938",
+    "2025-09-13 19:04:30.202 [info] (Windsurf) 2025-09-13 19:04:30.202 [INFO]: [Terminal] Command completed: lsof -i:3000 exit code 0",
+    "2025-09-13 19:04:37.978 [info] (Windsurf) 2025-09-13 19:04:37.978 [INFO]: [Terminal] Command started: kill -9 60354 pid 60938",
+    "2025-09-13 19:04:37.978 [info] (Windsurf) 2025-09-13 19:04:37.978 [INFO]: [Terminal] Command completed: kill -9 60354 exit code 0",
+    "2025-09-13 19:04:41.446 [info] (Windsurf) 2025-09-13 19:04:41.446 [INFO]: [Terminal] Command started: npm run dev\\ pid 60938",
+    "2025-09-13 19:06:28.167 [info] (Windsurf) 2025-09-13 19:06:28.167 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 62944",
+    "2025-09-13 19:11:53.901 [info] (Windsurf) 2025-09-13 19:11:53.901 [INFO]: [Terminal] Command completed: npm run dev\\ exit code 0",
+    "2025-09-13 19:11:55.059 [info] (Windsurf) 2025-09-13 19:11:55.059 [INFO]: [Terminal] Command started: npm run dev pid 60938",
+    "2025-09-13 19:16:21.930 [info] (Windsurf) 2025-09-13 19:16:21.930 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-13 19:16:26.385 [info] (Windsurf) 2025-09-13 19:16:26.385 [INFO]: [Terminal] Command started: codex pid 60938",
+    "2025-09-13 19:34:42.208 [info] (Windsurf) 2025-09-13 19:34:42.208 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-13 22:21:38.929 [info] (Windsurf) 2025-09-13 22:21:38.929 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-13 22:21:46.244 [info] (Windsurf) 2025-09-13 22:21:46.244 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-13 22:22:02.660 [info] (Windsurf) 2025-09-13 22:22:02.660 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-13 22:22:04.068 [info] W0913 22:22:04.068034 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 2984",
+    "2025-09-13 22:22:28.662 [info] (Windsurf) 2025-09-13 22:22:28.661 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-13 22:26:19.787 [info] (Windsurf) 2025-09-13 22:26:19.787 [INFO]: [Terminal] Command started: codex pid 70970",
+    "2025-09-13 22:28:13.017 [info] (Windsurf) 2025-09-13 22:28:13.017 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 71232",
+    "2025-09-13 22:28:30.934 [info] (Windsurf) 2025-09-13 22:28:30.934 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 71591",
+    "2025-09-13 22:33:47.908 [info] (Windsurf) 2025-09-13 22:33:47.908 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-13 22:33:50.937 [info] (Windsurf) 2025-09-13 22:33:50.937 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-13 22:34:09.308 [info] (Windsurf) 2025-09-13 22:34:09.308 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-13 22:34:11.000 [info] W0913 22:34:10.999584 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3131",
+    "2025-09-13 22:34:13.573 [info] (Windsurf) 2025-09-13 22:34:13.573 [INFO]: [SupercompleteProvider] No supercomplete response",
+    "2025-09-13 22:34:54.603 [info] (Windsurf) 2025-09-13 22:34:54.603 [INFO]: [SupercompleteProvider] No supercomplete response",
+    "2025-09-13 22:41:35.574 [info] (Windsurf) 2025-09-13 22:41:35.574 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 74747",
+    "2025-09-13 22:49:33.606 [info] (Windsurf) 2025-09-13 22:49:33.605 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-13 22:49:50.565 [info] (Windsurf) 2025-09-13 22:49:50.565 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-13 22:49:52.273 [info] W0913 22:49:52.272811 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3203",
+    "2025-09-13 22:49:59.079 [info] (Windsurf) 2025-09-13 22:49:59.079 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-13 22:50:02.507 [info] W0913 22:50:02.506858 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1126",
+    "2025-09-13 23:01:34.862 [info] (Windsurf) 2025-09-13 23:01:34.862 [INFO]: [Terminal] Command started: codex pid 78251",
+    "2025-09-13 23:09:54.393 [info] (Windsurf) 2025-09-13 23:09:54.393 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-13 23:09:57.739 [info] (Windsurf) 2025-09-13 23:09:57.739 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-13 23:10:14.188 [info] (Windsurf) 2025-09-13 23:10:14.188 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-13 23:10:15.911 [info] W0913 23:10:15.910913 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3149",
+    "2025-09-13 23:10:18.080 [info] (Windsurf) 2025-09-13 23:10:18.080 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-13 23:24:47.040 [info] (Windsurf) 2025-09-13 23:24:47.039 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-13 23:24:48.165 [info] (Windsurf) 2025-09-13 23:24:48.165 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-13 23:51:18.925 [info] (Windsurf) 2025-09-13 23:51:18.925 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-14 22:35:08.260 [info] (Windsurf) 2025-09-14 22:35:08.260 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-14 22:40:47.066 [info] (Windsurf) 2025-09-14 22:40:47.066 [INFO]: [SupercompleteProvider] No supercomplete response",
+    "2025-09-14 22:42:07.652 [info] (Windsurf) 2025-09-14 22:42:07.651 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 34015",
+    "2025-09-14 22:44:28.828 [info] E0914 22:44:28.827368 60811 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshContextForIdeAction (unknown): not valid utf8: content not valid for parsing",
+    "2025-09-14 22:44:29.325 [info] E0914 22:44:29.325535 60811 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshContextForIdeAction (unknown): not valid utf8: content not valid for parsing",
+    "2025-09-14 22:58:35.027 [info] (Windsurf) 2025-09-14 22:58:35.027 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 35958",
+    "2025-09-14 23:44:33.877 [info] (Windsurf) 2025-09-14 23:44:33.877 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-14 23:44:36.378 [info] (Windsurf) 2025-09-14 23:44:36.378 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-14 23:44:49.003 [info] (Windsurf) 2025-09-14 23:44:49.003 [INFO]: [Terminal] Command completed: npm run build exit code 1",
+    "2025-09-14 23:48:50.454 [info] (Windsurf) 2025-09-14 23:48:50.453 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-14 23:48:57.085 [info] (Windsurf) 2025-09-14 23:48:57.085 [INFO]: [Terminal] Command completed: npm run build exit code 1",
+    "2025-09-15 00:00:12.527 [info] (Windsurf) 2025-09-15 00:00:12.527 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-15 00:00:15.058 [info] W0915 00:00:15.054207 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1601",
+    "2025-09-15 00:00:51.656 [info] (Windsurf) 2025-09-15 00:00:51.655 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-15 00:00:52.264 [info] W0915 00:00:52.264474 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3084",
+    "2025-09-15 00:08:26.728 [info] (Windsurf) 2025-09-15 00:08:26.728 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-15 10:24:47.391 [info] (Windsurf) 2025-09-15 10:24:47.390 [INFO]: [SupercompleteProvider] No supercomplete response",
+    "2025-09-15 11:37:31.407 [info] (Windsurf) 2025-09-15 11:37:31.407 [INFO]: [SupercompleteProvider] No supercomplete response",
+    "2025-09-15 11:37:32.308 [info] (Windsurf) 2025-09-15 11:37:32.308 [INFO]: [SupercompleteProvider] No supercomplete response",
+    "2025-09-15 15:41:14.959 [info] (Windsurf) 2025-09-15 15:41:14.958 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-15 15:58:33.900 [info] W0915 15:58:33.895845 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3866",
+    "2025-09-15 15:58:45.809 [info] W0915 15:58:45.809555 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1082",
+    "2025-09-15 16:21:50.744 [info] (Windsurf) 2025-09-15 16:21:50.744 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 97019",
+    "2025-09-15 16:23:32.504 [info] (Windsurf) 2025-09-15 16:23:32.503 [INFO]: [Terminal] Command completed: claude --dangerously-skip-permissions exit code 134",
+    "2025-09-15 16:24:20.156 [info] (Windsurf) 2025-09-15 16:24:20.156 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions   --continue pid 97019",
+    "2025-09-15 16:26:18.242 [info] (Windsurf) 2025-09-15 16:26:18.242 [INFO]: [Terminal] Command completed: claude --dangerously-skip-permissions   --continue exit code 134",
+    "2025-09-15 16:26:53.646 [info] (Windsurf) 2025-09-15 16:26:53.646 [INFO]: [Terminal] Command started: npm i -g @anthropic-ai/claude-code pid 98464",
+    "2025-09-15 16:26:54.320 [info] (Windsurf) 2025-09-15 16:26:54.320 [INFO]: [Terminal] Command completed: npm i -g @anthropic-ai/claude-code exit code 190",
+    "2025-09-15 16:27:03.540 [info] (Windsurf) 2025-09-15 16:27:03.540 [INFO]: [Terminal] Command started: rm -rf '/opt/homebrew/lib/node_modules/@anthropic-ai/claude-code' pid 98464",
+    "2025-09-15 16:27:03.556 [info] (Windsurf) 2025-09-15 16:27:03.556 [INFO]: [Terminal] Command completed: rm -rf '/opt/homebrew/lib/node_modules/@anthropic-ai/claude-code' exit code 0",
+    "2025-09-15 16:27:06.471 [info] (Windsurf) 2025-09-15 16:27:06.471 [INFO]: [Terminal] Command started: npm i -g @anthropic-ai/claude-code pid 98464",
+    "2025-09-15 16:27:08.456 [info] (Windsurf) 2025-09-15 16:27:08.456 [INFO]: [Terminal] Command completed: npm i -g @anthropic-ai/claude-code exit code 0",
+    "2025-09-15 16:27:20.424 [info] (Windsurf) 2025-09-15 16:27:20.424 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 98464",
+    "2025-09-15 16:28:44.920 [info] (Windsurf) 2025-09-15 16:28:44.920 [INFO]: [Terminal] Command completed: claude --dangerously-skip-permissions exit code 134",
+    "2025-09-15 16:33:24.100 [info] (Windsurf) 2025-09-15 16:33:24.100 [INFO]: [Terminal] Command started: source ~/.claude_env pid 98464",
+    "2025-09-15 16:33:24.101 [info] (Windsurf) 2025-09-15 16:33:24.101 [INFO]: [Terminal] Command completed: source ~/.claude_env exit code 0",
+    "2025-09-15 16:33:27.554 [info] (Windsurf) 2025-09-15 16:33:27.553 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 98464",
+    "2025-09-15 16:38:05.352 [info] (Windsurf) 2025-09-15 16:38:05.352 [INFO]: [Terminal] Command completed: claude --dangerously-skip-permissions exit code 0",
+    "2025-09-15 16:38:14.585 [info] (Windsurf) 2025-09-15 16:38:14.585 [INFO]: [Terminal] Command started: source ~/.claude_env pid 98464",
+    "2025-09-15 16:38:14.586 [info] (Windsurf) 2025-09-15 16:38:14.586 [INFO]: [Terminal] Command completed: source ~/.claude_env exit code 0",
+    "2025-09-15 16:38:16.418 [info] (Windsurf) 2025-09-15 16:38:16.418 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 98464",
+    "2025-09-15 16:44:17.826 [info] (Windsurf) 2025-09-15 16:44:17.826 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-15 16:44:35.361 [info] (Windsurf) 2025-09-15 16:44:35.361 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-15 16:44:36.938 [info] W0915 16:44:36.938152 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3429",
+    "2025-09-15 16:44:53.353 [info] (Windsurf) 2025-09-15 16:44:53.353 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-15 16:44:57.542 [info] W0915 16:44:57.542156 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1086",
+    "2025-09-15 17:38:51.386 [info] (Windsurf) 2025-09-15 17:38:51.385 [INFO]: [Terminal] Command completed: claude --dangerously-skip-permissions exit code 0",
+    "2025-09-15 17:38:55.102 [info] (Windsurf) 2025-09-15 17:38:55.102 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions --continue pid 34015",
+    "2025-09-15 17:55:15.714 [info] W0915 17:55:15.712244 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3550",
+    "2025-09-15 17:57:01.285 [info] (Windsurf) 2025-09-15 17:57:01.285 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-15 17:57:04.203 [info] (Windsurf) 2025-09-15 17:57:04.203 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-15 17:57:24.688 [info] (Windsurf) 2025-09-15 17:57:24.688 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-15 17:57:26.240 [info] W0915 17:57:26.240356 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3280",
+    "2025-09-15 17:57:31.432 [info] (Windsurf) 2025-09-15 17:57:31.432 [INFO]: [Terminal] Command started: npm run dev pid 65783",
+    "2025-09-15 18:05:21.656 [info] (Windsurf) 2025-09-15 18:05:21.656 [INFO]: [Terminal] Command started: claude --dangerously-skip-permissions pid 20754",
+    "2025-09-15 19:44:55.949 [info] (Windsurf) 2025-09-15 19:44:55.949 [INFO]: [Terminal] Command completed: npm run dev exit code 0",
+    "2025-09-15 19:45:00.353 [info] (Windsurf) 2025-09-15 19:45:00.353 [INFO]: [Terminal] Command started: npm run build pid 65783",
+    "2025-09-15 19:45:16.631 [info] (Windsurf) 2025-09-15 19:45:16.630 [INFO]: [Terminal] Command completed: npm run build exit code 0",
+    "2025-09-15 19:45:18.319 [info] W0915 19:45:18.318848 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3187",
+    "2025-09-15 19:45:21.819 [info] (Windsurf) 2025-09-15 19:45:21.819 [INFO]: [Terminal] Command started: npm run dev pid 65783"
+  ],
+  "languageServerDiagnostics": {
+    "logs": [
+      "I0913 18:36:28.670903 60811 main.go:607] Setting GOMAXPROCS to 4\n",
+      "I0913 18:36:28.672379 60811 main.go:826] Starting language server process with pid 60811\n",
+      "I0913 18:36:28.672467 60811 server.go:298] Language server will attempt to listen on host 127.0.0.1\n",
+      "I0913 18:36:28.672525 60811 server.go:305] Language server listening on random port at 55069\n",
+      "I0913 18:36:29.849218 60811 server.go:438] Created extension server client at port 55062\n",
+      "E0913 18:36:36.002480 60811 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshMcpServers (unknown): loading already in progress\n",
+      "W0913 22:22:04.068034 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 2984\n",
+      "W0913 22:34:10.999584 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3131\n",
+      "W0913 22:49:52.272811 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3203\n",
+      "W0913 22:50:02.506858 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1126\n",
+      "W0913 23:10:15.910913 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3149\n",
+      "E0914 22:44:28.827368 60811 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshContextForIdeAction (unknown): not valid utf8: content not valid for parsing\n",
+      "E0914 22:44:29.325535 60811 interceptor.go:73] /exa.language_server_pb.LanguageServerService/RefreshContextForIdeAction (unknown): not valid utf8: content not valid for parsing\n",
+      "W0915 00:00:15.054207 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1601\n",
+      "W0915 00:00:52.264474 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3084\n",
+      "W0915 15:58:33.895845 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3866\n",
+      "W0915 15:58:45.809555 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1082\n",
+      "W0915 16:44:36.938152 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3429\n",
+      "W0915 16:44:57.542156 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 1086\n",
+      "W0915 17:55:15.712244 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3550\n",
+      "W0915 17:57:26.240356 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3280\n",
+      "W0915 19:45:18.318848 60811 workspace_manager.go:495] Too many changes in DidChangeWatchedFiles: 3187\n"
+    ]
+  },
+  "recentTrajectories": [
+    {
+      "cascadeId": "8ce6f019-25df-4381-aaab-63caa985f726",
+      "trajectoryId": "f5289e81-3550-4135-acd9-6284536eb99e",
+      "summary": "Check Fusion Result ID Generation Timing",
+      "lastStepIndex": 14,
+      "lastModifiedTime": "2025-09-11T02:48:37.493Z"
+    },
+    {
+      "cascadeId": "1eb77231-f31e-4d40-8cf6-87c920196351",
+      "trajectoryId": "fdb9d9c5-d93b-4ade-8d8d-bf131061c1ac",
+      "summary": "Locate DataType 1 Check Code",
+      "lastStepIndex": 11,
+      "lastModifiedTime": "2025-09-11T02:32:41.718Z"
+    },
+    {
+      "cascadeId": "6f9de51f-74f1-4a5a-a955-f1c248e5dc32",
+      "trajectoryId": "fa527525-6889-4bba-8647-13bbef81ee8c",
+      "summary": "Locating RabbitMQ Data Push",
+      "lastStepIndex": 42,
+      "lastModifiedTime": "2025-09-10T09:35:10.639Z"
+    },
+    {
+      "cascadeId": "b42b1a8b-cff1-47db-b1fe-f38d67af9af8",
+      "trajectoryId": "5585549a-e722-48e7-a531-146589bd5b62",
+      "summary": "Locate 40 Command Decoding",
+      "lastStepIndex": 44,
+      "lastModifiedTime": "2025-09-10T09:02:01.274Z"
+    },
+    {
+      "cascadeId": "bd2a639b-4331-4bce-9e06-81535faf9f8b",
+      "trajectoryId": "8d691344-1c09-4c8a-8816-f4622cf1fc74",
+      "summary": "RabbitMQ Queue Message Handling",
+      "lastStepIndex": 17,
+      "lastModifiedTime": "2025-09-10T07:46:58.274Z"
+    },
+    {
+      "cascadeId": "1b30bb3c-d5cd-4eb7-a637-1fba616b088a",
+      "trajectoryId": "3b644c15-4444-4f12-8d68-ffe580d3f75d",
+      "summary": "Verify Algorithm Data Completeness",
+      "lastStepIndex": 16,
+      "lastModifiedTime": "2025-09-09T11:56:30.961Z"
+    },
+    {
+      "cascadeId": "2e9823bc-0f30-4dce-949b-b8b460f6fd3d",
+      "trajectoryId": "272c9411-4911-4d45-8940-bcb9bc6507f9",
+      "summary": "Fix Model State Dict Loading Error",
+      "lastStepIndex": 8,
+      "lastModifiedTime": "2025-09-08T09:37:30.537Z"
+    },
+    {
+      "cascadeId": "43234262-b86c-4dd6-8ee3-0ae43bb718ac",
+      "trajectoryId": "c2f87505-3733-419e-80e5-87f8e93185c6",
+      "summary": "PCM Data Parsing Review",
+      "lastStepIndex": 49,
+      "lastModifiedTime": "2025-09-08T08:38:59.369Z"
+    },
+    {
+      "cascadeId": "13e3b98c-0236-4f94-a803-7961e2ba4ca7",
+      "trajectoryId": "5701791e-58b0-441f-8d5f-f759b0ae24f3",
+      "summary": "Remove Emojis from Code",
+      "lastStepIndex": 9,
+      "lastModifiedTime": "2025-09-08T08:27:53.066Z"
+    },
+    {
+      "cascadeId": "34f215cc-ba4c-4a65-a08f-cd2b2aff53af",
+      "trajectoryId": "aba8582a-e4fb-4be9-b3b6-0411fb4301bb",
+      "summary": "Debugging Data Clearance in Sensor Consumer",
+      "lastStepIndex": 53,
+      "lastModifiedTime": "2025-09-08T08:16:35.425Z"
+    }
+  ]
+}
